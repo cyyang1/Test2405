@@ -85,7 +85,7 @@ def save_file():
     messagebox.showinfo("Save the file",'儲處檔案')
 
 def aboutversion():
-    messagebox.showinfo('版本', "Version 1.0")
+    messagebox.showinfo('版本', "Version 1.1")
 
 # 創建選單
 
